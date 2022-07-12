@@ -45,15 +45,15 @@ continue_reading:      >
 
 cookies_banner:
   text:                >
-    This site uses cookies. [Cookies Policy](/cookies-policy/).
+    Cette plateforme utilise les cookies. [revenir à l'accueil](/).
   okay:                Okay
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               'Oups !'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    Désolé, nous avons égaré ce lien ou elle pointe vers quelque chose qui n'existe pas.
+    <!--home_link--> et reprenez votre navigation :)
+  home_link:           Revenez à l'accueil
 
 offline:
   title:               'You are Offline'
